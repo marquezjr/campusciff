@@ -32,7 +32,7 @@ git push
 
 ## 2.8 Merge con conflictos
 
-![imagen2.8a](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_8_a.jpg) /
+![imagen2.8a](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_8_a.jpg) 
 
 ![imagen2.8b](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_8_b.jpg)
 
@@ -40,4 +40,8 @@ git push
 
 ![imagen2.9](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_9.jpg)
 
+## 2.10 Configuracion cuenta
 
+![imagen2.10](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_10.jpg)
+
+![imagen2.10.1](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_10_1.jpg)
