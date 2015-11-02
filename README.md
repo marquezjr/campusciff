@@ -32,5 +32,12 @@ git push
 
 ## 2.8 Merge con conflictos
 
-![imagen2.8a](https://github.com/marquezjr/campusciff/tree/master/Imagenes/2_8_a.jpg)
+![imagen2.8a](https://github.com/marquezjr/campusciff/tree/master/Imagenes/2_8_a.jpg) /
+
 ![imagen2.8b](https://github.com/marquezjr/campusciff/tree/master/Imagenes/2_8_b.jpg)
+
+## 2.9 Borrar Rama
+
+![imagen2.9](https://github.com/marquezjr/campusciff/tree/master/Imagenes/2_9.jpg)
+
+
