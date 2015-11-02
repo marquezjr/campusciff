@@ -59,3 +59,6 @@ git push
 |Alfonso|https://github.com/alfonsops|
 |Rodrigo|https://github.com/romcra|
 
+## 2.16 Crear index.html
+
+![imagen2.16](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_16.jpg)
