@@ -62,3 +62,13 @@ git push
 ## 2.16 Crear index.html
 
 ![imagen2.16](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_16.jpg)
+
+## 2.16 Crear pull-requests
+
+![imagen2.17](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_17.jpg)
+
+![imagen2.17_b](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_17_b.jpg)
+
+![imagen2.17_c](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_17_c.jpg)
+
+![imagen2.17_d](https://github.com/marquezjr/campusciff/blob/master/Imagenes/2_17_d.jpg)
