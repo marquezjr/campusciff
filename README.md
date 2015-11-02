@@ -9,4 +9,4 @@ git clone "https://github.com/marquezjr/campusciff"
 
 ## 2.4 Ignorar archivos
 
-![imagen2.4](https://github.com/ "Ignorando archivos")
+![imagen2.4](https://github.com/marquezjr/campusciff/tree/master/Imagenes/2.4.jpg "Ignorando archivos")
